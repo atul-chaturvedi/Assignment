@@ -1,7 +1,7 @@
 # Assignment
 
 ## Libraries Used
-  ##### OpenCv
+  ##### OpenCV
   ##### PIL
   
  ## Baggage AI Class 
